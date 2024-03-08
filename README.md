@@ -1,5 +1,7 @@
 # [WOMAKERSCODE] Projeto de Exemplo: Compra de Chocolates
 
+![image](https://media.giphy.com/media/968taxwNaAXqZASdcn/giphy.gif)
+
 Este projeto é um exemplo simples de como aplicar Test-Driven Development (TDD) usando JavaScript. Ele calcula o preço total de uma compra de chocolates, aplicando descontos com base na quantidade comprada.
 
 ## Descrição
@@ -35,3 +37,12 @@ Este projeto foi desenvolvido seguindo a abordagem do Test-Driven Development (T
 ## Apresentação
 
 Este projeto foi desenvolvido para uma palestra sobre TDD em um evento dedicado às mulheres na tecnologia. Para mais informações sobre a apresentação, confira o [link da apresentação](https://www.canva.com/design/DAF6i-P6i2E/E2fuYoYdYPhpIQz2h2HwZg/edit?utm_content=DAF6i-P6i2E&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).
+
+### Vamos nos conectar!
+
+- [instagram](https://www.instagram.com/mandysporai)
+- [linkedin](https://www.linkedin.com/in/amanda-silva-dev/)
+- [github](https://github.com/mandypry)
+
+<br>
+Feito com muito 🤎 por Amanda Silva
